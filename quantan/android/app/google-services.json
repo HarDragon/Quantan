@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606918383484",
+    "project_id": "quantan-31ade",
+    "storage_bucket": "quantan-31ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606918383484:android:0ce6bc010eb2bd853236f9",
+        "android_client_info": {
+          "package_name": "com.example.quantan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606918383484-qi06ksot0djkbfrr2mk0aihamcm2mo5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm70H3--P8GbBRwB8CllL-YnZrFkMfjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606918383484-qi06ksot0djkbfrr2mk0aihamcm2mo5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
